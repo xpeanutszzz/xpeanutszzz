@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm xyz.xpeanutsz</h1>
 <h2 align="center">UI / Designer / Developer / py / C# / C++ / Lua</h1>
-<h3 align="center">A fullstack developer from germany</h3>
+<h3 align="center">A Fullstack Developer from germany</h3>
 
 - 🔭 I’m currently working on [Alvera Services](https://alvera.info)
 
