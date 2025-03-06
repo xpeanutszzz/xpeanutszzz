@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm xyz.xpeanutsz</h1>
+<h2 align="center">UI / Designer / Developer / py / C# / C++ / Lua</h1>
 <h3 align="center">A fullstack developer from germany</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-lyroxx&label=Profile%20views&color=0e75b6&style=flat" alt="dev-lyroxx" /> </p>
 
 - 🔭 I’m currently working on [Alvera Services](https://alvera.info)
 
