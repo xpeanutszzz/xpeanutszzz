@@ -17,7 +17,7 @@ UI/UX · Prototyping · Wireframing
 	•	TypeScript
 	•	C#
 	•	C++
-    •.  C
+  • C
 	•	Lua
 	•	Python
 
