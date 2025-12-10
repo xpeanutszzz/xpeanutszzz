@@ -25,7 +25,7 @@ UI/UX · Prototyping · Wireframing
 🚀 What I Do
 • ✨ Design modern and intuitive user interfaces
 • 🧠 Structure concepts, workflows, and design systems
-• 🛠️ Develop applications, tools, and game scripts
+• 🛠️ Develope applications, tools, and game scripts
 • 🔧 Build creative hybrid projects between design & development
 • ⭐ Currently Head of Development at Xyrix Service
 
