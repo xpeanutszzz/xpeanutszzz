@@ -27,3 +27,10 @@ UI/UX · Prototyping · Wireframing
 • 🛠️ Develop applications, tools, and game scripts
 • 🔧 Build creative hybrid projects between design & development
 • ⭐ Currently Head of Development at Xyrix Service
+
+⸻
+
+🧩 Development Focus
+🎨 Frontend Development – I build clean, modern, and responsive interfaces with a strong focus on clarity and user experience.
+🛠️ Backend Development – I create stable, scalable, and efficient backend systems that ensure smooth application performance.
+🔗 Fullstack Development – I combine design, frontend, and backend expertise to deliver complete, well-structured solutions from concept to final product.
