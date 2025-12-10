@@ -1,6 +1,6 @@
 👋 Hi, I’m xyz.xpeanutsz
 
-💡 UI/UX Designer & Developer
+💡 Designer & Developer
 
 I create clean interfaces, intuitive user experiences, and technical solutions that connect design and code.
 
@@ -17,7 +17,9 @@ UI/UX · Prototyping · Wireframing
 	•	TypeScript
 	•	C#
 	•	C++
+    •.  C
 	•	Lua
+	•	Python
 
 ⸻
 
