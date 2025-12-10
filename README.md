@@ -18,6 +18,7 @@ UI/UX · Prototyping · Wireframing
 • C
 • Lua
 • Python
+• Java
 
 ⸻
 
